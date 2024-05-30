@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Website</title>
+    <link>http://www.example.com</link>
+    <description>This is an example RSS feed.</description>
+    <item>
+      <title>Example Post 1</title>
+      <link>http://www.example.com/post1</link>
+      <description>This is the first example post.</description>
+      <pubDate>Tue, 25 May 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Example Post 2</title>
+      <link>http://www.example.com/post2</link>
+      <description>This is the second example post.</description>
+      <pubDate>Wed, 26 May 2024 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
